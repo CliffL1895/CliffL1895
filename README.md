@@ -4,4 +4,4 @@ My major is Electrical and Computer Engineering, and my research area is Machine
 At this moment, I am interested in discovering more fun facts about "MixUp", a regularization technique\
 My preferred programming language is python\
 I like to share some of my works on this platform\
-Have a good day, or in a generalized way: Have a good life.
+Have a good day.
